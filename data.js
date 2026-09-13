@@ -96,8 +96,8 @@ window.SITE = {
   contactText: 'For edits, designs, collabs, or the full reel \u2014 reach out.',
   contactLinks: [
     { label: 'Instagram', href: 'https://instagram.com/delusional.efx' },
-    { label: 'LinkedIn',  href: 'https://linkedin.com' },
-    { label: 'Email',     href: 'mailto:contact@srirammj.design' }
+    { label: 'LinkedIn', href: 'https://linkedin.com' },
+    { label: 'Email', href: 'mailto:contact@srirammj.design' }
   ]
 };
 
@@ -112,7 +112,7 @@ window.PROJECTS = [
     thumb: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=800&auto=format&fit=crop',
     mediaKind: 'image',
     items: [
-      { title: 'Main Cut',               type: 'play', meta: '0:00' },
+      { title: 'Main Cut', type: 'play', meta: '0:00' },
       { title: 'Slow-Mo Highlight Reel', type: 'play', meta: '0:00' }
     ]
   },
