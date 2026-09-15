@@ -44,7 +44,7 @@ window.SITE = {
     ]
   },
 
-  aboutBg: 'media/about-hero-bg.jpg',
+  aboutBg: 'media/about-hero-bg.jpg?v=5230',
   aboutBgType: 'image',
 
   aboutSections: [
@@ -57,14 +57,15 @@ window.SITE = {
       id: 'section-foundations',
       label: 'Foundations & Rhythm',
       eyebrow: 'EARLY CRAFT & PACING',
-      stepped: ['SRIRAM', 'BEGAN', 'CRAFTING', 'AND EDITING', 'STORIES', 'FROM DAY ONE'],
-      text: 'Starting in the high-adrenaline world of stunt riding films and kinetic cinematography, Sriram developed an instinctive feel for visual velocity, frame-by-frame rhythm, and atmospheric color grading. Every cut is engineered with sound, tension, and narrative momentum.'
+      stepped: ['SRIRAM', 'BELIEVES EVERY', 'COLOR HAS', 'A STORY', 'TO TELL'],
+      text: 'Sriram has a strong belief that every color carries meaning, and every element has a purpose. He pays attention to even the smallest details, often embedding meaning within the tiniest parts of his work. He creates primarily for self-satisfaction and personal expression, which makes every production a reflection of his personality, perspective, and character.',
+      quote: '“My work is not just something I create; it is a reflection of who I am.”'
     },
     {
       id: 'section-interface',
       label: 'Interface Architecture',
       eyebrow: 'SYSTEMATIC INTERACTION DESIGN',
-      stepped: ['BRIDGING', 'RAW KINETIC CINEMA', 'WITH SYSTEMATIC', 'DIGITAL ARCHITECTURE'],
+      stepped: ['STRUCTURING IDEAS', 'INTO UI/UX', 'THROUGH DIGITAL', 'ARCHITECTURE'],
       text: 'Translating cinematic motion into cohesive digital experiences. From complex enterprise design systems to intuitive mobile applications, Sriram treats interface design as living choreography — where hierarchy, micro-interactions, and visual craftsmanship merge seamlessly.'
     },
     {
